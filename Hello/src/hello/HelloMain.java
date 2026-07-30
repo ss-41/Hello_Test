@@ -8,6 +8,6 @@ public class HelloMain {
 
 		Hello hello = new Hello();
 		System.out.println(hello.talk());
-
+		
 	}
 }
